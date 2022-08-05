@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    ⚡PRYROZANS-UBOT⚡
+    ☠PRYROZANS-UBOT☠
 </h2>
 
 <p align="center">
