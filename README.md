@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    ⚡ ᴘʏʀᴏᴅᴀᴍ-ᴜʙᴏᴛ ⚡
+    ⚡ PYROZANS-ᴜʙᴏᴛ ⚡
 </h2>
 
 <p align="center">
