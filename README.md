@@ -1,9 +1,9 @@
 <h2 align="center"> 
-    ⚡ PYROZANS-ᴜʙᴏᴛ ⚡
+    ⚡PRYROZANS-UBOT⚡
 </h2>
 
 <p align="center">
-  <a href="#"><img src="https://telegra.ph/file/2b48ebf6e8db4825a7676.jpg" width="220" height="220"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/f9402624c2dea060ad71b.jpg" width="220" height="220"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
